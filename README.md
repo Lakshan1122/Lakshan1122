@@ -46,6 +46,4 @@
 <a href="https://github.com/mtmzakir/github-readme-activity-graph"><img alt="Lakshan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=lakshan1122&bg_color=0D1117&color=71E204&line=0299E0&point=FFFFFF&hide_border=true" /></a>
 </div>
 <div align="center">     
-    <a href="https://github.com/mtmzakir/github-readme-streak-stats">
-        <img title="🔥Excellent Streak" alt="Zakir's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=lakshan1122&theme=chartreuse-dark&hide_border=true&stroke=0000&background=0D1117"/></a> 
-</div>
+
