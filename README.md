@@ -19,7 +19,7 @@
 
 - 📝 I regularly write articles on [Filmex Cloud](https://filmexcloud.blogspot.com/)
 
-- 📫 How to reach me **lakshanpasindu011@gmail.com**
+- 📫 How to reach me **pasindulakshan011@gmail.com**
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
